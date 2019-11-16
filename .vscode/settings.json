@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/25301092-dd32-47ff-b918-dce617eadf74/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/test-html-pdf",
+    "appService.deploySubpath": ""
+}
